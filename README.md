@@ -2,29 +2,42 @@
 
 Rounak Kundu
  Kolkata  mtee10004.20@bitmesra.ac.in
+
 Profiles Rounak Kundu rounak97
+
 Summary Aspiring data scientist seeking to advance my career in data analytics and machine
 learning. Proficient in data analytics tools and programming languages such as SQL, Python
 and Excel. Familiar with machine learning techniques, including regression, classification,
 clustering, and neural networks. Strong analytical and problem-solving abilities, with
 experience in statistical analysis, data wrangling, and predictive modeling.
+
 Experience Detroit Engineered Products
+
 Associate Project Engineer
+
 August 2022 - Present
+
 Chennai
+
 Conducted various FEA simulations, including torque, ripples, force generation, and
 sensitivity analysis of PMS motors using Ansys Maxwell, achieving a 15% increase in
 simulation accuracy.
+
 Identified 10+ key performance indicators (KPIs) for client Stellantis and developed
 data dashboards, improving decision-making efficiency by 20%.
+
 Created presentations and visualizations of data using Excel and Pandas, summarizing
 key insights that led to a 25% increase in sales team's performance.
+
 Projects Credit Risk Modelling
  Github
+
 Developed models to predict loan approval based on customer financial data to
 minimize non-performing assets, achieving an accuracy of 78%.
+
 Employed hyperparameter tuning techniques such as GridSearchCV and
 RandomSearchCV, improving model performance by 5%.
+
 Customer Churn Prediction
  Github
 Analyzed Telco Customer Churn dataset using exploratory data analysis (EDA),
