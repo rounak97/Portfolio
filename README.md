@@ -1,7 +1,7 @@
-# Data Science
 
-### Rounak Kundu
-###  Kolkata  mtee10004.20@bitmesra.ac.in/rounak.kundu97@gmail.com
+
+# Rounak Kundu
+###  Kolkata  mtee10004.20@bitmesra.ac.in/rounak.kundu97@gmail.com
 
 Summary Aspiring data scientist seeking to advance my career in data analytics and machine
 learning. Proficient in data analytics tools and programming languages such as SQL, Python
