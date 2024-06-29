@@ -1,7 +1,7 @@
 
 
 # Rounak Kundu
-###  Kolkata  mtee10004.20@bitmesra.ac.in/rounak.kundu97@gmail.com
+###  Kolkata  | rounak.kundu97@gmail.com 
 
 Summary Aspiring data scientist seeking to advance my career in data analytics and machine
 learning. Proficient in data analytics tools and programming languages such as SQL, Python
@@ -26,7 +26,6 @@ key insights that led to a 25% increase in sales team's performance.
 ### Projects 
 
 ### Credit Risk Modelling
- Github
 
 -Developed models to predict loan approval based on customer financial data to
 minimize non-performing assets, achieving an accuracy of 78%.
@@ -35,7 +34,6 @@ minimize non-performing assets, achieving an accuracy of 78%.
 RandomSearchCV, improving model performance by 5%.
 
 ### Customer Churn Prediction
- Github
 
 -Analyzed Telco Customer Churn dataset using exploratory data analysis (EDA),
 identifying key churn factors.
@@ -47,7 +45,6 @@ Decision Tree Classifier, and KNN Classifier, achieving a maximum AUC score of 0
 a Precision of 0.84 and a Recall of 0.92.
 
 ### BigMart Sales Prediction
- Github
 
 -Utilized data cleaning and imputation techniques with libraries such as Pandas,
 Numpy and Klib to handle missing values and standardize data, followed by detailed
@@ -61,7 +58,6 @@ improved prediction accuracy.
 models with Joblib library for future use.
 
 ### Zomato Sales Analysis
- Github
 
 -This project utilized a sample dataset from Zomato, a popular restaurant discovery
 and food delivery platform. Used various SQL concepts like joins and window functions
@@ -82,9 +78,7 @@ spending patterns and behaviors observed.
 
 Control System | 8.23 GPA | 2020 - 2022 | M.Tech
 
- Github
-• Thesis : - Deep Learning Architectures used in Autonomous Vehicles. Implementation of
-SSD, YOLO algorithm on Berkeley Deep Drive Datasets (BDD100K).
+• Thesis : - Deep Learning Architectures used in Autonomous Vehicles. Implementation of SSD, YOLO algorithm on Berkeley Deep Drive Datasets (BDD100K).
 
 ### Kalyani Government Engineering College
 
@@ -92,4 +86,4 @@ Electrical Engineering | 7.57 GPA | 2015 - 2019 | B.Tech
 
 ### Publications
 
-### • R.Kundu, S.Das, S.K.Mishra, "A Comprehensive Review of Single and Double Stage Object Detection Algorithms in Self Driving”, 2022 IEEE 7th International conference for Convergence in Technology (I2CT), Pune, India. Apr 07-09, 2022. IEEE
+### • R.Kundu, S.Das, S.K.Mishra, "A Comprehensive Review of Single and Double Stage Object Detection Algorithms in Self Driving”, 2022 IEEE 7th International conference for Convergence in Technology (I2CT), Pune, India. Apr 07-09, 2022.
